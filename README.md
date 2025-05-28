@@ -1,6 +1,6 @@
 # SPIRE 2025  
 
-For SPIRE 2025 Space datasets see Space_datasets folder
+For SPIRE 2025 Space datasets see space_datasets folder
 
 # BIICC-2024
 
