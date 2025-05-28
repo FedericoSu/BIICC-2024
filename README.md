@@ -1,3 +1,7 @@
+# SPIRE 2025  
+
+For SPIRE 2025 Space datasets see Space_datasets folder
+
 # BIICC-2024
 
 Discursos extraidos de: https://www2.hcdn.gob.ar/secparl/dgral_info_parlamentaria/dip/documentos/mensajes_presidenciales.html
