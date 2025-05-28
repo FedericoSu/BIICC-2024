@@ -1,0 +1,36 @@
+name,entity_subtype,country,latitude,longitude,page_views
+Andhra Pradesh,PopulatedPlace,India,14.9028,79.09,6017336.0
+Maharashtra,PopulatedPlace,India,18.97,72.82,5561863.0
+Manhattan,PopulatedPlace,United_States,40.7833,-73.9667,4804636.0
+Los Angeles,PopulatedPlace,United_States,34.05,-118.25,11179790.0
+London,PopulatedPlace,United_Kingdom,51.5072,-0.1275,12938947.0
+Goa,PopulatedPlace,India,15.5,73.83,3830406.0
+Moscow,PopulatedPlace,Russia,55.7558,37.6172,4390411.0
+Mumbai,PopulatedPlace,India,19.0761,72.8775,7647534.0
+Mississippi,PopulatedPlace,United_States,33.0,-90.0,3681971.0
+Budapest,PopulatedPlace,Hungary,47.4925,19.0514,4070178.0
+Brooklyn,PopulatedPlace,United_States,40.6928,-73.9903,14990510.0
+Baltimore,PopulatedPlace,United_States,39.2894,-76.6153,3327250.0
+Bangalore,PopulatedPlace,India,12.9789,77.5917,4376982.0
+Tokyo,PopulatedPlace,Japan,35.6897,139.692,6277268.0
+Stockholm,PopulatedPlace,Sweden,59.3294,18.0686,2955196.0
+Sikkim,PopulatedPlace,India,27.55,88.5,3910935.0
+Berlin,PopulatedPlace,Germany,52.52,13.405,4874229.0
+Bavaria,PopulatedPlace,Germany,49.0786,11.3856,3240176.0
+Detroit,PopulatedPlace,United_States,42.3314,-83.0995,4586148.0
+Ho Chi Minh City,PopulatedPlace,Vietnam,10.7756,106.702,2679003.0
+Pripyat,PopulatedPlace,Ukraine,51.4047,30.0569,2739052.0
+Cape Town,PopulatedPlace,South_Africa,-33.9253,18.4239,2965356.0
+Canberra,PopulatedPlace,Australia,-35.2931,149.127,2606697.0
+Catalonia,PopulatedPlace,Spain,41.8375,1.53778,3119707.0
+San Diego,PopulatedPlace,United_States,32.715,-117.162,3344559.0
+Melbourne,PopulatedPlace,Australia,-37.8142,144.963,4099254.0
+Mecca,PopulatedPlace,Saudi_Arabia,21.4225,39.8233,3471573.0
+Copenhagen,PopulatedPlace,Denmark,55.6761,12.5683,5018561.0
+Salt Lake City,PopulatedPlace,United_States,40.7708,-111.921,2744666.0
+Rio de Janeiro,PopulatedPlace,Brazil,-22.9114,-43.2059,2774490.0
+Houston,PopulatedPlace,United_States,29.7628,-95.3831,4062389.0
+Hyderabad,PopulatedPlace,India,17.385,78.4867,3889068.0
+Jonestown,PopulatedPlace,Guyana,7.68944,-59.95,7715886.0
+Venice,PopulatedPlace,Italy,45.4375,12.3358,4292230.0
+Uttar Pradesh,PopulatedPlace,India,26.85,80.91,5657682.0
