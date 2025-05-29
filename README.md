@@ -1,6 +1,6 @@
 # SPIRE 2025  
 
-For SPIRE 2025 Space datasets see space_datasets folder
+For SPIRE 2025 Space datasets see space_datasets folder. For Time datasets see presidential_speeches.csv
 
 # BIICC-2024
 
