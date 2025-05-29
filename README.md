@@ -1,7 +1,6 @@
 # SPIRE 2025  
 
-For SPIRE 2025 Space datasets see space_datasets folder. For Time datasets see presidential_speeches.csv
-
+For SPIRE 2025 Space datasets see "space_datasets" folder. For the Time dataset see "presidential_speeches.csv"
 # BIICC-2024
 
 Discursos extraidos de: https://www2.hcdn.gob.ar/secparl/dgral_info_parlamentaria/dip/documentos/mensajes_presidenciales.html
